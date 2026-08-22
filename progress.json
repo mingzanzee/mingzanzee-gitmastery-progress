@@ -320,5 +320,14 @@
       "Great work using all of the concepts you've learnt about branching to mix the messy documentation!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1787370498.322031,
+    "completed_at": 1787370501.929416,
+    "comments": [
+      "Cmd('git') failed due to: exit code(1)\n  cmdline: git checkout db41fbf707260499e5f94f2fb0c935a8c3409957\n  stdout: 'features.md: needs merge'\n  stderr: 'error: you need to resolve your current index first'"
+    ],
+    "status": "Error"
   }
 ]
