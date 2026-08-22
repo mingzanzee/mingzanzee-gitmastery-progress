@@ -329,5 +329,14 @@
       "Cmd('git') failed due to: exit code(1)\n  cmdline: git checkout db41fbf707260499e5f94f2fb0c935a8c3409957\n  stdout: 'features.md: needs merge'\n  stderr: 'error: you need to resolve your current index first'"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1787370696.56778,
+    "completed_at": 1787370698.414413,
+    "comments": [
+      "You have successfully completed the exercise!"
+    ],
+    "status": "Completed"
   }
 ]
